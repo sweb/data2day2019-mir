@@ -15,6 +15,11 @@ numpy = "*"
 librosa = "*"
 streamlit = "*"
 jupyter = "*"
+matplotlib = "*"
+tensorflow = "*"
+seaborn = "*"
+pydot = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.7"
